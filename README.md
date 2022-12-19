@@ -1,2 +1,2 @@
 # Deccan Hearld Clone
-This is my construct week project. unit-2
+This is Clone of Deccan Herald news reading website made using HTML and css
